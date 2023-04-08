@@ -32,14 +32,22 @@
 
 15.Business Landing Page - (https://github.com/sudsek6060/sud_Business_Landingpage)
 
+<<<<<<< HEAD
 ### Tailwind CSS
+=======
+###Tailwind CSS
+>>>>>>> 311213b47501fd4d7e4e3cd4a96daded73a37bd0
 1.Paytm Clone - (https://github.com/sudsek6060/sud_paytm_clone)
 
 2.Shopify Clone - (https://github.com/sudsek6060/sud_shopify_clone)
 
 3.Rode Clone - (https://github.com/sudsek6060/sud_RODE_clone)
 
+<<<<<<< HEAD
 ### JavaScript
+=======
+###JavaScript
+>>>>>>> 311213b47501fd4d7e4e3cd4a96daded73a37bd0
 1.Accordion - (https://github.com/sudsek6060/Accordion)
 
 2.Name Conversion - (https://github.com/sudsek6060/Name-Conversion)
