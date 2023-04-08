@@ -39,6 +39,27 @@
 
 3.Rode Clone - (https://github.com/sudsek6060/sud_RODE_clone)
 
+##JavaScript
+1.Accordion - (https://github.com/sudsek6060/Accordion)
+
+2.Name Conversion - (https://github.com/sudsek6060/Name-Conversion)
+
+3.Color changer - (https://github.com/sudsek6060/Color-Changer)
+
+4.Basic Counter - (https://github.com/sudsek6060/Basic-Counter)
+
+5.See What You Type - (https://github.com/sudsek6060/See_What_You_Type)
+
+6.Click the button - (https://github.com/sudsek6060/Click_the_button)
+
+7.Password Generator - (https://github.com/sudsek6060/Password_Generator)
+
+8.Calculator - (https://github.com/sudsek6060/Calculator)
+
+9.Binary to Decimal - (https://github.com/sudsek6060/Binary_to_Decimal)
+
+10.Jokes Generator - (https://github.com/sudsek6060/Jokes_Generator)
+
 
 
 
